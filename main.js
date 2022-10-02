@@ -1,6 +1,6 @@
 const BLACK_LIST_METHODS = ["log", "debug", "warn", "info"];
 setTimeout(() => {
-    // deleteAllTrashFromConsoleVk();
+    deleteAllTrashFromConsoleVk();
     partialDisableNavigationBar(['l_msg']);
 }, 0);
 
